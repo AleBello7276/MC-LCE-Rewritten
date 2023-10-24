@@ -22,7 +22,7 @@ https://discord.gg/v3KCbd7K6x
 so if you want to help me, you are free to pop into the server🙂
 
 ## What i want to do
-Basically Rewrite the entire Xbox360 Base Game (TU0) using the java code and some reverse engineering for helping
+Basically Rewrite the entire Xbox360 Base Game (TU0) using the Java version code and some reverse engineering of the binaries for helping
 
 
 ### Todo
