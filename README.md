@@ -3,6 +3,10 @@
 ## What Is This Project?
 This is a **Rewrite** (or Decompilation) of Minecraft for legacy consoles, also known as **Legacy Console Edition (LCE) or just Legacy.**
 
+My main goal is to create a **single version of Minecraft Legacy** that runs on PC (See [Why PC?][wpc]) and that is supported and updated to the latest versions of Minecraft by developers and modders.
+
+
+
 This rewrite of the game will be in **C#** (yet to be confirmed) using **OpenGL** (yet to be confirmed) as the graphics API. It will aim to be as close to the original source code and game behaviors **as possible.**
 
 _But in reality, I probably don't even know what I'm doing lol🦆_
@@ -48,6 +52,13 @@ Like I said in [Todo], it's like a BIG **Puzzle** where I have a reference (The 
 #### (not very useful lol)
 4J most likely took the beta 1.6.6 code and modified it for the Xbox and to play with a controller, also leaving in the binaries useless pieces of code😅(Love you 4J😊❤️)
 
+
+## Why PC?
+This "Version" of Minecraft Legacy it will probably run only on PC for the reason that we cannot publish it on the Consoles Stores.
+
+Obviously the controllers of the various consoles will be compatible, otherwise it wouldn't be Minecraft Legacy :)
+
+
 ## Tools I Used
 To view Minecraft's Java beta 1.6.6 code, I used:
 * [RetroMCP][rmcp]: RetroMCP is a modification of the Minecraft Coder Pack.
@@ -70,5 +81,6 @@ For rendering, I used:
 [ghi]: https://github.com/NationalSecurityAgency/ghidra
 [xel]: https://github.com/zeroKilo/XEXLoaderWV
 [4j]: https://www.4jstudios.com
-[Todo]: https://github.com/AleBello7276/MC-LCE-Rewritten/edit/main/README.md#todo
+[Todo]: https://github.com/AleBello7276/MC-LCE-Rewritten#to-do-list
 [otk]: https://opentk.net
+[wpc]: https://github.com/AleBello7276/MC-LCE-Rewritten#why-pc
