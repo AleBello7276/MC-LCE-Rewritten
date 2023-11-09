@@ -27,16 +27,15 @@ If you want to help me, you are free to pop into the server! 🙂
 Basically, rewrite the entire Xbox 360 Edition base game (TU0) using the Java Edition's code and some reverse engineering of the binaries to help.
 
 ### To-Do List
-- [ ] Java stripped down version/Simplified version.
+- [ ] Convert **beta 1.6.6** from Java to C#
 
-Basically, take away as many pieces of code as possible from beta 1.6.6 to simplify it as much as possible.
-
-Because rewriting everything in one go is too difficult and there's a 99% chance of it not working right away. So, simplifying the Java code first, then converting it to C#, will give me a great starting point to put all the other pieces, like a **Puzzle.**
+Since the first version of the legacy was based using the beta 1.6.6 code I will start with this version and slowly add the missing pieces like a **Puzzle**
 
 ---
-- [ ] Convert the Simplified Version to C#
+- [ ] Implement all the features of the Legacy version
 
-Convert the Java Simplified version code to C# using OpenTK.
+(Crafting, Controller Inputs etc)
+As I said before "add the missing pieces"
 
 ---
 
