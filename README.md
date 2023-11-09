@@ -24,7 +24,7 @@ Link: [https://discord.gg/v3KCbd7K6x](https://discord.gg/v3KCbd7K6x)
 If you want to help me, you are free to pop into the server! 🙂
 
 ## What Are My Plans/Intentions?
-Basically, rewrite the entire Xbox 360 Edition base game (TU0) using the Java Edition's code and some reverse engineering of the binaries to help.
+Basically, rewrite the Minecraft Console Edition using the Java Edition's code and reverse engineering of the binaries to help.
 
 ### To-Do List
 - [ ] Convert **beta 1.6.6** from Java to C#
