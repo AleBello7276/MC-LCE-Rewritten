@@ -16,6 +16,13 @@ Minecraft for legacy consoles was a version of Minecraft ported to consoles by [
 
 This version of the game was discontinued around 2019 and was replaced by the **Bedrock Edition.**
 
+## Progress
+<p align="center">
+  <img src="https://github.com/AleBello7276/MC-LCE-Rewritten/blob/main/img/Bar_v1.png" width="50%" >
+</p>
+
+This is the progress of the **current Goal**.
+(thanks MattKC for the idea ;})
 ## How Do I Help?
 A lot of progress is being made! I will post the progress in this amazing Discord server :}
 
