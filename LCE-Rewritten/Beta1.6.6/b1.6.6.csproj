@@ -9,13 +9,6 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="minecraft\src\net\minecraft\src\AxisAlignedBB.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="minecraft\src\net\minecraft\src\AxisAlignedBB.cs" />
-  </ItemGroup>
 
 
   <ItemGroup>
